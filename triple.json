@@ -1,0 +1,102 @@
+[
+  [
+    "Geoffrey Hinton",
+    "works_at",
+    "Google"
+  ],
+  [
+    "Geoffrey Hinton",
+    "researches",
+    "Deep Learning"
+  ],
+  [
+    "Geoffrey Hinton",
+    "student_of",
+    "Christopher Bishop"
+  ],
+  [
+    "Yann LeCun",
+    "works_at",
+    "Meta"
+  ],
+  [
+    "Yann LeCun",
+    "researches",
+    "Computer Vision"
+  ],
+  [
+    "Yann LeCun",
+    "researches",
+    "Deep Learning"
+  ],
+  [
+    "Yoshua Bengio",
+    "works_at",
+    "University of Montreal"
+  ],
+  [
+    "Yoshua Bengio",
+    "researches",
+    "Deep Learning"
+  ],
+  [
+    "Andrew Ng",
+    "works_at",
+    "Stanford University"
+  ],
+  [
+    "Andrew Ng",
+    "researches",
+    "Machine Learning"
+  ],
+  [
+    "Andrew Ng",
+    "founded",
+    "Coursera"
+  ],
+  [
+    "Fei-Fei Li",
+    "works_at",
+    "Stanford University"
+  ],
+  [
+    "Fei-Fei Li",
+    "researches",
+    "Computer Vision"
+  ],
+  [
+    "Sam Altman",
+    "works_at",
+    "OpenAI"
+  ],
+  [
+    "Ilya Sutskever",
+    "works_at",
+    "OpenAI"
+  ],
+  [
+    "Ilya Sutskever",
+    "researches",
+    "Deep Learning"
+  ],
+  [
+    "Google",
+    "located_in",
+    "USA"
+  ],
+  [
+    "Meta",
+    "located_in",
+    "USA"
+  ],
+  [
+    "Stanford University",
+    "located_in",
+    "USA"
+  ],
+  [
+    "University of Montreal",
+    "located_in",
+    "Canada"
+  ]
+]
