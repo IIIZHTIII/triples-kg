@@ -1,0 +1,2 @@
+# Python >= 3.10
+# 当前为纯标准库实现；引入 Pandas / Pydantic 后在此添加
